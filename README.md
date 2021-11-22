@@ -11,7 +11,6 @@
 
 <hr>
 
-- 
 - 👀 I’m interested in <strong>frontEnd</strong> ,<strong>SEO</strong> and <strong>WordPress</strong>
 - 🌱 I’m currently learning <strong>PHP</strong> and <strong>Laravel</strong>
 - 📫 How to reach:
