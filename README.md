@@ -1,12 +1,11 @@
 <h1 align="center" dir="auto">Hi friends 👋 I’m <strong>MeysamKiani</strong></h1>
 
 
-<a href="https://github.com/meysamWeb">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=meysamWeb&show_icons=true&count_private=true&include_all_commits=true&theme=dracula" /></a>
-
+<p align="center">
 <a href="https://github.com/meysamWeb">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meysamWeb&theme=dracula" />
 </a>
+</p>
 
 
 <hr>
