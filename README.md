@@ -10,12 +10,11 @@
 
 <hr>
 
-- 👀 I’m interested in <strong>SEO</strong> and <strong>WordPress</strong>
-- 🌱 I’m currently learning <strong>PHP</strong> and <strong>Laravel</strong>
+- 👀 I’m interested in <strong>WordPress</strong> and <strong>PHP</strong>
 - 📫 How to reach:
 
- <p dir="auto"> ✔️ Email : <a href="mailto:meysamkiani94@gmail.com">MeysamKiani94@gmail.com</a></p>
- <p dir="auto"> ✔️ Telegram : <a href="https://t.me/Meysam_94" rel="nofollow">@Meysam_94</a></p>
+ <p dir="auto"> ✔️ Email : <a href="mailto:meysam.web94@gmail.com">meysam.web94@gmail.com</a></p>
+ <p dir="auto"> ✔️ Telegram : <a href="https://t.me/meysam_web" rel="nofollow">@meysam_web</a></p>
  
  
  
