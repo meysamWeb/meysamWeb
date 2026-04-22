@@ -1,29 +1,92 @@
-<h1 align="center" dir="auto">Hi friends 👋 I’m <strong>MeysamKiani</strong></h1>
-
+<h1 align="center">Meysam Kiani</h1>
 
 <p align="center">
-<a href="https://github.com/meysamWeb">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meysamWeb&theme=dracula" />
-</a>
+  <strong>Front-End Developer</strong> • React.js • Next.js • TypeScript
 </p>
 
+<p align="center">
+  WordPress Theme & Plugin Developer • Scalable UI Systems • Clean Architecture
+</p>
 
-<hr>
+<p align="center">
+  <a href="mailto:meysam.web94@gmail.com">Email</a> •
+  <a href="https://t.me/meysam_web">Telegram</a> •
+  <a href="https://github.com/meysamWeb">GitHub</a> •
+  <a href="https://stackoverflow.com/users/18833574/meysamweb">Stack Overflow</a>
+</p>
 
-- 👀 I’m interested in <strong>WordPress</strong> and <strong>PHP</strong>
-- 📫 How to reach:
+<p align="center">
+  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/WordPress-111111?style=for-the-badge&logo=wordpress&logoColor=21759B" />
+  <img src="https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=777BB4" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-111111?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4" />
+</p>
 
- <p dir="auto"> ✔️ Email : <a href="mailto:meysam.web94@gmail.com">meysam.web94@gmail.com</a></p>
- <p dir="auto"> ✔️ Telegram : <a href="https://t.me/meysam_web" rel="nofollow">@meysam_web</a></p>
- 
- 
- 
+---
 
+## About Me
 
-<p dir="auto">
- <a href="https://wordpress.org/download/" rel="nofollow"><img src="https://user-images.githubusercontent.com/9213496/100453347-03cc8d00-30d0-11eb-90f6-dde0e5a6136c.png" alt="alt text" width="48" height="48" style="max-width: 100%;"></a>
-<a href="https://nodejs.org/en/" rel="nofollow"><img src="https://user-images.githubusercontent.com/9213496/100453330-ffa06f80-30cf-11eb-8c71-d981220ca5be.png" alt="alt text" width="48" height="48" style="max-width: 100%;"></a>
-<a href="https://www.adobe.com/products/photoshop.html" rel="nofollow"><img src="https://user-images.githubusercontent.com/9213496/100453274-f6af9e00-30cf-11eb-9007-d7264c399f8f.png" alt="alt text" width="48" height="48" style="max-width: 100%;"></a>
-<a href="https://www.office.com/" rel="nofollow"><img src="https://user-images.githubusercontent.com/9213496/100453317-fe6f4280-30cf-11eb-8495-cf9ab170f5df.png" alt="alt text" width="48" height="48" style="max-width: 100%;"></a>
-<a href="https://stackoverflow.com/users/18833574/meysamweb" rel="nofollow"><img src="https://user-images.githubusercontent.com/9213496/100453337-00d19c80-30d0-11eb-96ed-5725a0e40fb5.png" alt="alt text" width="48" height="48" style="max-width: 100%;"></a>
+I build modern, scalable, and user-focused web applications with **React.js**, **Next.js**, and **TypeScript**.
+
+I also have strong hands-on experience in **WordPress theme and plugin development**, building custom solutions with a strong focus on performance, maintainability, clean code, and real business needs.
+
+I care about writing front-end code that is not only visually polished, but also structured, reusable, and ready for long-term growth.
+
+---
+
+## What I Bring
+
+- Modern front-end development with **React / Next.js / TypeScript**
+- Clean, maintainable, and reusable component-based architecture
+- Responsive and production-ready UI implementation
+- Strong WordPress experience in **custom themes**, **plugins**, and **WooCommerce development**
+- API integration, scalable project structure, and performance-focused implementation
+- SEO-aware development and attention to user experience details
+
+---
+
+## Core Stack
+
+- **Frontend:** React.js, Next.js, TypeScript, JavaScript
+- **UI:** Tailwind CSS, Responsive Design, Component Systems
+- **WordPress:** Custom Theme Development, Plugin Development, WooCommerce
+- **Data & APIs:** REST API Integration, Axios, Fetch API
+- **State & Logic:** Redux Toolkit, Context API, TanStack Query
+- **Code Quality:** Clean Code, Scalable Structure, Reusable Components
+- **Tools:** Git, GitHub
+
+---
+
+## Current Focus
+
+- Building modern front-end products with **Next.js** and **TypeScript**
+- Creating scalable UI systems for real-world applications
+- Developing custom WordPress solutions for business and e-commerce needs
+- Delivering maintainable codebases that balance product goals and user experience
+
+---
+
+## Stack Overflow
+
+I actively use Stack Overflow as part of my problem-solving workflow and development process.
+
+<p>
+  <a href="https://stackoverflow.com/users/18833574/meysamweb">
+    <img src="https://stackoverflow.com/users/flair/18833574.png" width="208" height="58" alt="Stack Overflow profile" />
+  </a>
+</p>
+
+---
+
+## Contact
+
+- **Email:** [meysam.web94@gmail.com](mailto:meysam.web94@gmail.com)
+- **Telegram:** [@meysam_web](https://t.me/meysam_web)
+
+---
+
+<p align="center">
+  <sub>Building clean, scalable, and user-centered web experiences.</sub>
 </p>
